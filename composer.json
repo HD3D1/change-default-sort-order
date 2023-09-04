@@ -19,6 +19,7 @@
         }
     ],
     "support": {
+	"source": "https://github.com/HD3D1/change-default-sort-order",
         "forum": "https://discuss.flarum.org/d/"
     },
     "homepage": "https://warezbook.org",
