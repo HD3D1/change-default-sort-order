@@ -3,9 +3,6 @@
 namespace hd3d\ChangeDefaultSortOrder;
 
 use Flarum\Extend;
-use Flarum\Api\Controller\ListDiscussionsController;
-use Flarum\Api\Event\WillGetData;
-use Flarum\Discussion\DiscussionListState;
 
 class ChangeDefaultSortOrder extends Extend
 {
