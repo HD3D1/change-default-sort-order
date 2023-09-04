@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A [Flarum](http://flarum.org) extension. Adds a Signup button to the homepage, and replace the Start a discussion icon with the Signin icon.
+A [Flarum](http://flarum.org) extension. Changes default sort order to Latest on searh results.
 
 ## Installation
 
