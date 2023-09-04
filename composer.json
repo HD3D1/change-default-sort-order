@@ -1,0 +1,41 @@
+{
+    "name": "hd3d/change-default-sort-order",
+    "description": "Change the default sort order on search results",
+    "keywords": [
+        "flarum",
+        "flarum-extension",
+        "sort-order"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.7"
+    },
+    "authors": [
+        {
+            "name": "HD3D",
+            "email": "support@warezbook.org"
+        }
+    ],
+    "support": {
+        "forum": "https://discuss.flarum.org/d/29762"
+    },
+    "homepage": "https://warezbook.org",
+    "autoload": {
+        "psr-4": {
+            "HD3D\\ChangeDefaultSortOrder\\": "src/"
+        }
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Change Default Sort Order",
+            "category": "feature",
+            "version": "1.1",
+            "icon": {
+                "name": "fas fa-sort",
+                "backgroundColor": "#D3241C",
+                "color": "#fff"
+            }
+        }
+    }
+}
