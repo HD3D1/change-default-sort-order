@@ -4,7 +4,7 @@ namespace hd3d\ChangeDefaultSortOrder;
 
 use Flarum\Extend;
 
-class ChangeDefaultSortOrder extends Extend
+class ChangeDefaultSortOrder extends Flarum\Extend
 {
     public function listen()
     {
