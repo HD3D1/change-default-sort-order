@@ -6,16 +6,4 @@ A [Flarum](http://flarum.org) extension. Changes default sort order to Latest on
 
 ## Installation
 
-Install with composer:
-
-```sh
-composer require hd3d/change-default-sort-order:"*"
-```
-
-## Updating
-
-```sh
-composer update hd3d/change-default-sort-order:"*"
-php flarum migrate
-php flarum cache:clear
-```
+NOT WORKING
